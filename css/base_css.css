@@ -7,3 +7,52 @@ body {
 	font-variant: normal;
 	font-weight: 500;
 }
+<<<<<<< HEAD
+
+h1 {
+
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 26.4px;
+=======
+
+body {
+	margin: 0%;
+	padding: 14px;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+>>>>>>> c40535b61b140e8c3c48c04dfa4d7d1bd8abe850
+}
+
+header, .full-width {
+  width: 100%;
+  background: #4682b4;
+  text-align: center;
+}
+
+header2, .full-width2 {
+  width: 100%;
+  background: #4682b4;
+  text-align: left;
+}
+
+.wrap {
+  width: 100%;
+  max-width: 48em;
+  margin: 0 auto;
+  padding: 0.24em 0.625em;
+}
+
+#container{
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #666;
+  background: #ffffff;
+}
