@@ -6,16 +6,16 @@ header, .full-width {
 
 .wrap {
   width: 100%;
-  max-width: 48em;
+  max-width: 50em;
   margin: 0 auto;
   padding: 0.24em 0.625em;
 }
 
 #container{
-  width: 80%;
+  width: 100%;
   margin: auto;
-  padding: 20px;
-  border: 1px solid #666;
+  padding: 5px;
+  border: 2px solid #666;
   background: #ffffff;
 }
 
