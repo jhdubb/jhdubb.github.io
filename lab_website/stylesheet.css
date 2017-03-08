@@ -1,0 +1,21 @@
+/*
+Cascading style sheet
+Contains all presentation (fonts, colors, background, borders, text formatting, link effects etc...)
+
+External Style Sheet
+
+selector{property:value}
+selector is the HTML element that you want to style
+Proprety is the actual property title
+Value is the style you apply to that property
+Multiple properties are separated with a semi colon
+Multiple values within a property are separated by commas
+*/
+
+div{
+  background-color: lightgrey;
+  width: 550px;
+  border: 25px solid green;
+  padding: 25px;
+  margin: 25px;
+}
